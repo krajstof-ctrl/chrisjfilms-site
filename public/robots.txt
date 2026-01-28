@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you
+
+# Crawl delay for specific bots
+User-agent: Googlebot
+Crawl-delay: 0
+
+User-agent: Bingbot
+Crawl-delay: 0
+
+# Sitemap location
+Sitemap: https://www.chrisjfilms.com/sitemap.xml
+
+# Host preference
+Host: https://www.chrisjfilms.com
